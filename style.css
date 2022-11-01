@@ -125,7 +125,7 @@ input,button{
 }
 
 /* Completed */
-.form__task-list_completed.task-list__label {
+.form__task-list_completed .task-list__label {
     text-decoration: line-through;
     color: #888;
 }
